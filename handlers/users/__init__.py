@@ -2,4 +2,4 @@ from . import help
 from . import start
 from . import Admin
 from .import boglanish
-# main
+from . import join_remover
