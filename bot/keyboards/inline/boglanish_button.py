@@ -9,3 +9,5 @@ startkeyboard.insert(InlineKeyboardButton(text="✅Fiverr",url='fiverr.com/amirj
 startkeyboard.insert(InlineKeyboardButton(text="🔰Linkedin",url='https://www.linkedin.com/in/amirjon-karimov'))
 startkeyboard.insert(InlineKeyboardButton(text="🌐Instagram",url='instagram.com/amirjonkarimov.blog'))
 startkeyboard.insert(InlineKeyboardButton(text="📹You tube",url='https://www.youtube.com/@AmirjonKarimovBlog'))
+# amirjondeploy@gmail.com
+# Karimoff2007@gmail.com
